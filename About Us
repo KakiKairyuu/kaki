@@ -1,0 +1,21 @@
+<body style="background-color:lightgreen;">
+<!DOCTYPE html>
+
+<html> 
+   <head>
+     <title> U Dream It We Build It</title>
+   </head>
+  <body>  <body>
+     <div id="header">
+     <h1> <b>About Us</b></h1>
+     </div>
+     
+     <div id="nav"
+         Home<br>
+         Gallery<br>
+         About Us<br>
+         Contact<br>
+     </div>
+ </body>
+
+</html>
